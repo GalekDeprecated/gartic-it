@@ -12,6 +12,10 @@
 - kamera
 - server
 - kabel
+- iphone
+- ipad
+- macbook
+- iMac
 
 ##Medium
 
@@ -23,3 +27,6 @@
 - response
 - request
 - web
+- cookie
+- OOM
+- 
