@@ -36,6 +36,7 @@
 - git
 - merge
 - meeting
+- 2FA
 
 ## Hard
 
