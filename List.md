@@ -35,6 +35,7 @@
 - release
 - git
 - merge
+- meeting
 
 ## Hard
 
