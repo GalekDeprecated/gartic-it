@@ -23,6 +23,7 @@
 - stream
 - router
 - switch
+- release
 
 ## Hard
 
