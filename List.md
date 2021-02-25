@@ -12,10 +12,17 @@
 - kamera
 - server
 - kabel
-- iphone
-- ipad
-- macbook
-- iMac
+- telefon
+- tablet
+- dron
+- 3dtiskarna
+- NAS
+- servo
+- UPS
+- redukce
+- DDOS
+- router
+- kavovar
 
 ## Medium
 
@@ -23,6 +30,8 @@
 - stream
 - router
 - switch
+- git
+- merge
 
 ## Hard
 
@@ -31,4 +40,6 @@
 - web
 - cookie
 - OOM
-- 
+- 429 #response code
+- HDMI
+- rebase
