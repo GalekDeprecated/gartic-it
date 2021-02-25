@@ -25,6 +25,7 @@
 - kavovar
 - javista
 - tester
+- cloud
 
 ## Medium
 
