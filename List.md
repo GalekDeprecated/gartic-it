@@ -32,6 +32,7 @@
 - stream
 - router
 - switch
+- release
 - git
 - merge
 
