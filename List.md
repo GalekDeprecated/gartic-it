@@ -21,6 +21,8 @@
 
 - browser
 - stream
+- router
+- switch
 
 ## Hard
 
