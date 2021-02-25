@@ -1,4 +1,4 @@
-#List
+# List
 
 ## Easy
 
@@ -17,7 +17,7 @@
 - macbook
 - iMac
 
-##Medium
+## Medium
 
 - browser
 - stream
