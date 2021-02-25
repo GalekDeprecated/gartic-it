@@ -37,6 +37,7 @@
 - merge
 - meeting
 - 2FA
+- IDE
 
 ## Hard
 
